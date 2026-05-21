@@ -1,57 +1,56 @@
 # Welcome to my GitHub Profile
 
 ## About Me
-
-I am a passionate **technology enthusiast** and **3D artist**, specializing in **project management**, **file organization**, and **workflow optimization**. My experience covers the creation and management of large-scale projects, from setting up e-commerce platforms to developing intricate 3D environments and game modifications.
+I am a Hardware and Infrastructure Specialist, Database Management Student, and 3D Artist. With over five years of practical experience in the assembly, maintenance, and optimization of complex high-performance (High-End) systems, my expertise bridges the gap between hardware engineering and digital workflows. I specialize in maximizing the efficiency of technological assets, managing secure data environments, and directing digital infrastructure operations.
 
 ---
 
 ## Key Interests
 
-- **3D Modeling and Design**  
-  Proficient in Blender, I continually push the boundaries of 3D art, creating immersive visual experiences and exploring new creative techniques.
-
-- **Game Modification**  
-  As the developer of **Atalante's Eyes**, a custom ReShade that transforms game graphics into cinematic visuals, I specialize in enhancing gaming experiences through visual modifications.
-
-- **Project Management and Team Leadership**  
-  From conceptualization to execution, I have led multiple teams in building digital platforms and creative projects, always striving for efficiency and high-quality output.
+- **High-End Hardware Engineering & Optimization**
+  Specializing in enthusiast builds, advanced thermal management (including AIO and custom water cooling solutions), BIOS tuning (XMP, DOCP, and Resizable BAR activation), and structured stability benchmarking to ensure maximum processing efficiency.
+- **Database Systems & Infrastructure**
+  Focused on structuring efficient data routines, implementing information security protocols, automating preventive backup procedures, and maintaining high-stability web platforms.
+- **3D Modeling & Technical Design**
+  Proficient in Blender for the creation of high-fidelity visual assets, intuitive user interfaces (UI), and structured environments for digital applications.
+- **Game Modification & Low-Latency Streaming**
+  Developer of **Atalante's Eyes** (a custom cinematic ReShade configuration) and researcher in low-latency, high-fidelity remote desktop streaming optimization utilizing tools such as Parsec.
 
 ---
 
 ## Current Focus
-
-I am currently deepening my knowledge in:
-
-- Advanced **3D rendering** and **visual effects**
-- Optimizing **digital workflows** for collaborative projects
-- Developing innovative **modding tools** to enhance graphical fidelity in games
+I am currently deepening my knowledge and applying my skills in:
+- **Database structuring** and secure storage management, aligned with my ongoing degree in Database Systems.
+- **Hardware performance analysis**, focusing on real-time sensor monitoring and systematic thermal optimization.
+- **Digital workflow optimization** for deployment in e-commerce and collaborative technology projects.
 
 ---
 
 ## Projects and Contributions
 
-- **TaskRevolution**  
-  Spearheaded the development of this full-scale e-commerce platform, managing everything from branding and design to the implementation of complex business policies.
-
-- **Markaneth**  
-  My personal creative hub, where I showcase work in 3D art, music composition, and concept development. Markaneth represents my diverse interests in digital creation.
-
-- **RandomShitScanned**  
-  A project focused on creating unique visual compositions through scanned objects, exploring the artistic potential of everyday items.
+- **TaskRevolution**
+  Founder and technical lead. Managed the development of an e-commerce infrastructure focused on the high-end hardware niche, encompassing domain administration, data security protocols, UI design, and specialized remote technical support.
+- **High-End Enthusiast Builds**
+  Architect and builder of high-performance custom PC setups—notably **Project Akhatosh** and **Project Floquinho**—focusing on hardware equilibrium, meticulous cable management, and component synchronization.
+- **Atalante's Eyes & Markaneth**
+  Core creative projects. Atalante's Eyes focuses on graphical transformation via ReShade, while Markaneth serves as a central repository for 3D art, concept development, and digital creation.
+- **RandomShitScanned**
+  A project focused on creating technical visual compositions through scanned objects, exploring the artistic and structural potential of physical items digitized.
 
 ---
 
 ## Looking to Collaborate
-
 I am open to collaboration on:
-
-- **3D design** and **game development** projects
-- **Tech-based innovations**, particularly those focused on improving digital art pipelines and workflow optimization
-- **Open-source tools** for game modding and visual enhancement
+- **Hardware benchmarking**, systematic performance testing, and custom build engineering.
+- **Database management** and corporate IT infrastructure solutions.
+- **3D design**, technical asset creation, and open-source modding tools.
 
 ---
 
 ## Contact
+For inquiries, technical consulting, or project collaborations, contact me at **alfernandesjr@gmail.com**.
 
-For inquiries, collaborations, or any questions, feel free to reach me at **alfernandesjr@gmail.com**. Additionally, you can explore more of my creative works through my [Instagram](https://www.instagram.com/aldraius/) and [ArtStation](https://www.artstation.com/markaneth).
+Professional background and creative portfolios:
+- [LinkedIn](https://www.linkedin.com/in/alfernandesjr/)
+- [ArtStation](https://www.artstation.com/markaneth)
+- [Instagram](https://www.instagram.com/aldraius/)
